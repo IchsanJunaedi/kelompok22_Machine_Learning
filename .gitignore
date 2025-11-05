@@ -3,3 +3,11 @@ venv/
 env/
 
 00_Download_Dataset.py
+
+notebooks/05_SHAP_Analysis.ipynb
+results/figures/31_shap_summary_beeswarm.png
+results/figures/32_shap_importance_bar.png
+results/figures/33_shap_dependence_plots.png
+results/figures/34_shap_force_high_risk.png
+results/figures/35_shap_force_low_risk.png
+results/figures/36_shap_force_borderline.png
