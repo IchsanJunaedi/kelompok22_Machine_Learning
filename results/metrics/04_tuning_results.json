@@ -4,7 +4,7 @@
         "n_iter": 100,
         "cv_folds": 5,
         "scoring": "roc_auc",
-        "tuning_time_minutes": 4.314992547035217,
+        "tuning_time_minutes": 3.9107423226038613,
         "best_cv_score": 0.8984362973900577
     },
     "best_hyperparameters": {
@@ -114,7 +114,7 @@
             "Specificity": 0.8943661971830986,
             "Balanced Acc": 0.8727150134851663,
             "MCC": 0.7296393518154615,
-            "Training Time (s)": 1.3501534461975098
+            "Training Time (s)": 1.1932573318481445
         },
         "ADASYN": {
             "Accuracy": 0.8488063660477454,
@@ -125,7 +125,7 @@
             "Specificity": 0.9084507042253521,
             "Balanced Acc": 0.8606083308360803,
             "MCC": 0.7013030365850588,
-            "Training Time (s)": 1.3254685401916504
+            "Training Time (s)": 1.1646926403045654
         },
         "Class Weight": {
             "Accuracy": 0.8620689655172413,
@@ -136,7 +136,7 @@
             "Specificity": 0.9154929577464789,
             "Balanced Acc": 0.872640095894516,
             "MCC": 0.7257516778229568,
-            "Training Time (s)": 1.2049736976623535
+            "Training Time (s)": 1.0738890171051025
         }
     },
     "cross_validation": {
